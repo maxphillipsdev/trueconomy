@@ -4,3 +4,6 @@ main: com.maxphillipsdev.trueconomy.Trueconomy
 depends: [Vault]
 api-version: 1.13
 description: An economy plugin for Spigot with a focus on economic theory.
+commands:
+  usage: /<command>
+  description: Issues main command
