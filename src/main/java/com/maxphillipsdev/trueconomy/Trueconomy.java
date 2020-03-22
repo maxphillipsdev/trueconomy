@@ -16,6 +16,7 @@ public final class Trueconomy extends JavaPlugin
 
 	private void instanceClasses()
 	{
+
 	}
 
 	public static Trueconomy getPlugin() { return plugin; }
